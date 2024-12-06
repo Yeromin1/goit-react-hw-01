@@ -1,0 +1,26 @@
+.transactionHistory {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.list {
+  color: #fff;
+  background-color: #3b3a3a;
+}
+
+.item:nth-child(2n) {
+  background-color: #d6d2d2;
+}
+
+.transactionHistory th,
+.transactionHistory td {
+  padding: 10px;
+  border: 2px solid #000;
+  text-align: center;
+  width: 250px;
+}
+
+.type {
+  text-align: left !important;
+  padding-left: 85px !important;
+}

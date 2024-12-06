@@ -1,0 +1,23 @@
+.item {
+  padding: 10px;
+  text-align: center;
+}
+
+.avatar {
+  margin-bottom: 10px;
+}
+
+.name {
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.online {
+  color: green;
+  font-size: 12px;
+}
+
+.offline {
+  color: red;
+  font-size: 12px;
+}
